@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    font-family: Helvetica, sans-serif;
+}
+
+/* .line {
+    border-bottom: 1px solid black;
+} */
+
+.text {
+    position: relative;
+    font-size: 150px;
+    top: 30px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+h1:hover {
+    color: gold;
+}
